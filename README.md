@@ -1,2 +1,2 @@
 # hello-world
-This is a Test
+Testing GitHub.  This is just a test.  Planning now.  How about swimming.  Or Biking.
